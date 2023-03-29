@@ -1,5 +1,6 @@
 # CalculatorProject
 Example of a simple calculator
+
 SET UP THE PROJECT
 -Java version: 19
 -JavaFX version: 19
