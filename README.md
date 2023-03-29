@@ -2,8 +2,8 @@
 Example of a simple calculator
 
 SET UP THE PROJECT
--Java version: 19
--JavaFX version: 19
+1. Java version: 19
+2. JavaFX version: 19
 
 Using other IDE instead of Intellij :
 1. please check the set up write down above
